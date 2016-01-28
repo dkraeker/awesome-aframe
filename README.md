@@ -110,6 +110,8 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [360-Degree Photosphere Viewer](https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere) - 360-degree photo viewer with navigation [[Code]](https://github.com/IdeaSpaceVR/aframe-360-degree-photosphere)
 - [Ecommerce Space Themed Store](http://vr.lasershop.ca/) (by [@drawvr])
 - [Tunnel Ride](http://drawvr.com/tunnel/) (by [@drawvr])
+- [Wheel Ride](http://drawvr.com/wheel/) (by [@drawvr])
+- [Equalizer Ride](http://drawvr.com/equalizer/) (by [@drawvr])
 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
