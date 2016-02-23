@@ -133,7 +133,8 @@ Use React with A-Frame. Share your A-Frame React Components!
 - [Minecraft Viewer Boilerplate](https://ngokevin.github.io/aframe-minecraft-viewer-boilerplate/) - Boilerplate for viewing [Minecraft](http://minecraft.net/)-[esque](http://www.realtimerendering.com/erich/minecraft/public/mineways/) scenes [[Code]](https://github.com/ngokevin/aframe-minecraft-viewer-boilerplate/)
 - [Aztec Pong](http://meta-meta.github.io/aztec-pong/) - Play Pong floating atop an Aztec monument [[Code]](https://github.com/meta-meta/aztec-pong/)
 - [Hello, Pizza!](http://carpedmt.github.io/) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Cocde]](https://github.com/carpedmt/carpedmt.github.io/)
-
+- [Ecommerce Gallery](http://vr.gadgetplus.ca/) (by [@drawvr]) Simple picture gallery for online store
+- 
 Your contributions and suggestions are heartily welcome. Check out the guidelines and [make a pull request](https://github.com/aframevr/awesome-aframe/edit/master/README.md).
 
 ## License
